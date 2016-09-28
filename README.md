@@ -1,0 +1,3 @@
+#movietalk
+ *bootstrap
+ *jquery
